@@ -1,6 +1,6 @@
 # laCucuracha-game
 
-[LaCucuracha Smash](URL)
+[LaCucuracha Smash](https://aazainkhan.github.io/product-website/)
 
 COMP 125 - Assignment 3 - Winter 2023
 
